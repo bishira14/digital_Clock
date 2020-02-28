@@ -1,0 +1,12 @@
+body{
+min-height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: black;
+}
+
+.digital_clock{
+  font-family: 'Orbitron', sans-serif;
+  color: rgb(0, 153, 0);
+}
