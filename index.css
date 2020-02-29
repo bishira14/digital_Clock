@@ -9,4 +9,5 @@ background-color: black;
 .digital_clock{
   font-family: 'Orbitron', sans-serif;
   color: rgb(0, 153, 0);
+  font-size: 5rem;
 }
